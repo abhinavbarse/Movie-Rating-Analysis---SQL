@@ -12,7 +12,7 @@ The goal of this project is to strengthen SQL concepts such as JOINs, aggregatio
 
 ---
  
-<img src="Images/CoverImage.png" height="300px" width="800px">
+<img src="Images/CoverImage.png" height="400px" width="800px">
 
 ---
 
@@ -50,7 +50,7 @@ The dataset consists of 3 tables:
 ---
 
 ## 🧱 Database Schema
-<img src="Images/ERD.png" height="300px" width="800px">
+<img src="Images/ERD.png" height="400px" width="800px">
 <br>
 
 ---
